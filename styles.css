@@ -496,7 +496,7 @@ nav {
 }
 
 /* Existing Media Queries */
-.trip__list {
+/* .trip__list {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -534,7 +534,7 @@ nav {
   margin: 5px 0 0;
   color: #666;
   font-size: 14px;
-}
+} */
 
 
 @media (width > 540px) {
